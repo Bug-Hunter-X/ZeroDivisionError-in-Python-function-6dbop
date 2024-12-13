@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: ZeroDivisionError. The `my_function` attempts to divide by zero when the input `x` is 0. The solution handles this edge case by returning 0.
